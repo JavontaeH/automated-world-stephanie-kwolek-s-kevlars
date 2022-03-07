@@ -10,7 +10,8 @@
 1. run `git clone git@github.com:JavontaeH/automated-world-stephanie-kwolek-s-kevlars.git`
 1. run `cd automated-world-stephanie-kwolek-s-kevlars`
 1. run `serve` (npm package downloaded here https://www.npmjs.com/package/serve) to create a local server to view the website on
-1. copy & paste local port from serve command into browser 
+1. copy & paste local port from serve command into browser
+2. alternatively, use the LiveServer VSCode extension: (https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer), to serve the code directly from Visual Studio.
 
 
 ## Difficulties:
