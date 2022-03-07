@@ -1,7 +1,7 @@
-import { cityRender } from "/scripts/Iceland/cities/RenderCities.js";
-import { landmarkRender } from "/scripts/Iceland/landmarks/RenderLandmarks.js";
-import { peopleRender } from "/scripts/Iceland/people/RenderPeople.js";
-import { slideshowRender } from "/scripts/Iceland/slideshow/slideshowRender.js";
+import { cityRender } from "/scripts/iceland/cities/renderCities.js";
+import { landmarkRender } from "/scripts/iceland/landmarks/renderLandmarks.js";
+import { peopleRender } from "/scripts/iceland/people/renderPeople.js";
+import { slideshowRender } from "/scripts/iceland/slideshow/slideshowRender.js";
 
 cityRender();
 landmarkRender();

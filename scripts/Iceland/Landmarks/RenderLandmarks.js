@@ -1,5 +1,5 @@
-import { getLandMarks } from "/scripts/Iceland/landmarks/landmarkData.js";
-import { formatLandmarks } from "/scripts/Iceland/landmarks/formatLandmarks.js";
+import { getLandMarks } from "/scripts/iceland/landmarks/icelandLandmarks.js";
+import { formatLandmarks } from "/scripts/iceland/landmarks/formatLandmarks.js";
 
 export const landmarkRender = () => {
   const contentElement = document.querySelector(".data-card-container");

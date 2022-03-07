@@ -1,5 +1,5 @@
-import { getCities } from "/scripts/Iceland/cities/cityData.js";
-import { formatData } from "/scripts/Iceland/cities/formatCities.js";
+import { getCities } from "/scripts/iceland/cities/icelandCities.js";
+import { formatData } from "/scripts/iceland/cities/formatCities.js";
 
 export const cityRender = () => {
   const contentElement = document.querySelector(".data-card-container");

@@ -1,5 +1,5 @@
-import { getPeople } from "/scripts/Iceland/people/peopleData.js";
-import { formatPeople } from "/scripts/Iceland/people/formatPeople.js";
+import { getPeople } from "/scripts/iceland/people/icelandPeople.js";
+import { formatPeople } from "/scripts/iceland/people/formatPeople.js";
 
 export const peopleRender = () => {
   const contentElement = document.querySelector(".data-card-container");

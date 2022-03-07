@@ -16,10 +16,10 @@ const notableLandMarks = [
     image: "/images/iceland-images/dino-rock-image.webp",
   },
   {
-    name: " Hallgrímskirkja Church",
+    name: "Hallgrímskirkja",
     year: "Completed in 1986",
     description:
-      "Hallgrímskirkja is built by State Architect Guðjón Samúelsson (1887-1950). His design of the church was commissioned in 1937. Construction then started in 1945 and was completed in 1986, just in time for the 200-year anniversary of Reykjavík. Different parts of the church were ready earlier.",
+      "Hallgrímskirkja is built by State Architect Guðjón Samúelsson (1887-1950). His design of the church was commissioned in 1937. Construction then started in 1945 and was completed in 1986, just in time for the 200-year anniversary of Reykjavík.",
     website: "https://visitreykjavik.is/service/hallgrimskirkja-church",
     image: "/images/iceland-images/church-image.jpg",
   },
